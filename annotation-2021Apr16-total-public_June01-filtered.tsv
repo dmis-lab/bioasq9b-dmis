@@ -1,0 +1,1093 @@
+Annotator	q_id	question_value	new_question	answer_value	new_answer	drop	reason	
+	530a5117970c65fa6b000007	"What is the meaning of the acronym ""TAILS"" used in protein N-terminomics?"		['TAILS: Terminal Amine Isotopic Labeling of Substrates']	['Terminal Amine Isotopic Labeling of Substrates']			
+	54ede8c594afd61504000009	In which phase of the cell cycle arrest is impaired in Fanconi anemia?		"['In Fanconi anemia cells, the S-phase checkpoint is inefficient.']"	"['the S-phase', 'S-phase']"			
+	56c868a95795f9a73e000017	What is the application of the Bimolecular Fluorescence Complementation (BiFC) assay in Drosophila embryos?		['The study of protein-protein interactions in a physiologically relevant developing context.']	"['the study of protein interactions', 'study of protein interactions']"			
+	516e5f41298dcd4e5100007f	What is the genetic basis of Rubinstein-Taybi syndrome?		['Mutations or/and deletions in the genes of the cAMP-response element binding protein-BP (CREBBP) (50-60% of the cases) and of the homologous gene E1A-binding protein (EP300) at 22q13 (5%).']		1		
+	52f223e02059c6d71c00000e	Which is the genetic defect causing Neurofibromatosis type 1?		['Mutation in NF1 gene.']	['Mutation in NF1 gene']			
+	56c5fd325795f9a73e000005	Which is the genetic basis of Spinal Muscular Atrophy (SMA)?		"['The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1)']"	"['the loss of function of the survival motor neuron gene (SMN1)', 'loss of function of the survival motor neuron gene (SMN1)']"			
+	51739df58ed59a060a00001c	Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?		['The mutational status of the IGHV genes.']	"['The mutational status of the IGHV genes', 'mutational status of the IGHV genes']"			
+	52fe52702059c6d71c000078	Where is the histone variant CENPA preferentially localized?		"['Centromeres', 'CENPA is preferentially localized in eukaryotic centromeres']"	"['centromeres', 'eukaryotic centromeres']"			
+	5339ecf4d6d3ac6a3400005f	Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?		['Delayed enhancement by CMR has prognostic value in predicting adverse cardiovascular events among HCM patients.']		1		
+	5719f5b27de986d80d00000c	What is the function of Neu5Gc (N-Glycolylneuraminic acid)?		['Neu5Gc is an immune message to self']	['immune message']			
+	57092332cf1c325851000018	What is the molecular function of the Chd1 protein?		['Chd1 is an ATP-dependent DNA helicase']	['ATP-dependent DNA helicase']			
+	535d35779a4572de6f000005	What is the proportion of non canonical splice sites in the human genome?		['Between 1% and 2% ']	['Between 1% and 2%']			
+	52f11b922059c6d71c000004	Which signalling pathway is involved in Tuberous Sclerosis?		['Tuberous Sclerosis is caused by hyperactivation of the mTOR signalling pathway.']	"['mTOR', 'mTOR signalling pathway']"			
+	536787467d100faa09000010	Which is the relation between sweating and anaerobic threshold?		['There is no clear evidence of the relationship between sweating and anaerobic threshold']	['no clear relation']			
+	514a0f4ad24251bc05000053	How many genes are in the gene signature screened by MammaPrint?		['70 genes']	"['70', '70 genes']"			
+	5719f5c67de986d80d00000d	What distinguishes lantibiotics from antibiotics?		['Lantibiotics are post-translationally modified natural peptides containing lanthionine']		1		
+	54e0e902ae9738404b000001	What family do mDia proteins belong in?		['mDia proteins are members of the formin family']	['formin family']			
+	54f60ae05f206a0c06000008	What is the substrate of the microbial enzyme inulinase?		"['The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose.']"	"['the beta-(2,1)-D-fructoside links in inulin releasing D-fructose']"			
+	530cf4e0c8a0b4a00c000007	What is the rate of survival after commotio cordis?		['10-28%']		1		
+	52efbfccc8da898910000018	At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?		['effective in younger individuals']	['younger individuals']			
+	55390901bc4f83e828000014	What is the effect of CRD-BP on the stability of c-myc mRNA?		['To protect c-myc CRD from endonucleolytic attack.']	['To protect c-myc CRD from endonucleolytic attack']			
+	56c341acfedd0b786b000001	What is the molecular function of psoralen photobinding on DNA?		['It intercalates into the double helix.']	['intercalates into the double helix']			
+	56d3346cf22319765a000008	What is situs inversus?		['Situs inversus totalis is a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs.']	"['rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs', 'a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs']"			
+	56bdc79bef6e394741000001	Which eye condition is managed by the athens protocol?		"['Keratoconus', 'cornea blindness due to severe corneal scarring']"	"['Keratoconus', 'cornea blindness']"			
+	571e2beabb137a4b0c000006	How is OCT3 associated with serotonin?		['serotonin clearance']	['clearance']			
+	530c7f52970c65fa6b000010	Oxantel is used for periodontitis treatment. How does it work?		['Oxantel disrupts polymicrobial biofilm']	['disrupts polymicrobial biofilm']			
+	56e6dfc2edfc094c1f000003	What is apelin?		"['Apelin, a small regulatory peptide, is the endogenous ligand for the apelin receptor (APJ) receptor.']"	['endogenous ligand for the apelin receptor (APJ) receptor']			
+	531d744c267d7dd053000009	What is the function of the protein encoded by the gene PABPC4?		"['PABC4 is important for mRNA stability and translation initiation, in chronic inflammation and in the pathogenesis of colorectal cancer.']"	"['mRNA stability', 'translation initiation', 'chronic inflammation', 'the pathogenesis of colorectal cancer']"			
+	553f72edab98a37113000007	What is the typical outer diameter of microtubules (tubulin heterodimers)?		['24nm - 25 nm']	['25 nm']			
+	530cf22aa177c6630c000004	What is the main role of Ctf4 in dna replication?		['Coordination of the progression of helicase and DNA polymerase alpha at the eukaryotic replication fork.']	"['Coordination of the progression of helicase', 'DNA polymerase alpha at the eukaryotic replication fork']"			
+	51542dabd24251bc0500007d	Which gene test can be used for the X-linked myotubular myopathy?		['MTM1 gene test']	"['MTM1', 'MTM1 gene test']"			
+	56c1f039ef6e394741000052	Which antibody is implicated in the Bickerstaff's brainstem encephalitis?		['antiganglioside antibody']	"['antiganglioside antibody', 'antiganglioside']"			
+	532670e7d6d3ac6a34000008	What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?		['Low T3 syndrome occurs frequently after CABG']	['Low T3 syndrome']			
+	54ede76294afd61504000008	What is the risk of developing acute myelogenous leukemia in Fanconi anemia?		"['At least 15%, based on the International Fanconi Anemia Registry (IFAR)']"		1		
+	56c86aa95795f9a73e000018	Treprostinil is an analogue for which prostaglandin?		['Prostaglandin I(2)']	"['Prostaglandin I(2)', 'PGI(2)']"			
+	56c58ceeb04e159d0e000004	What is the function of circular RNA?		"['Recent research has revealed that circRNAs can function as microRNA (miRNA) sponges, regulators of splicing and transcription, and modifiers of parental gene expression.']"	"['microRNA (miRNA) sponges', 'regulators of splicing and transcription', 'modifiers of parental gene expression']"			
+	56d138fe3975bb303a000015	Which trancription factor activates the betalain pathway?	Which transcription factor activates the betalain pathway?	['The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway.']	['anthocyanin MYB-like protein']			
+	5326a85ad6d3ac6a3400000b	What does polyadenylate-binding protein 4 (PABP4) bind to?		['PABP4  binds mRNA poly(A) tails.']	['mRNA poly(A) tails']			
+	54e262daae9738404b000018	Which cell type has the protein Chromogranin A as marker?		['neuroendocrine cells']	"['neuroendocrine tumors', 'neuroendocrine tumours', 'neuroendocrine cells']"			
+	56cf236f3975bb303a000002	Which calcium channels does ethosuximide target?		['T-type calcium channels']	"['T-type calcium channels', 'T-channel']"			
+	54f9ae2506d9727f76000002	Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?		"['The Plakoglobin gene', 'plakoglobin[jup]']"	"['The Plakoglobin gene', 'plakoglobin (jup)']"			
+	569e79ecceceede94d000002	What was the purpose of the FANTOM3 project?		['The comprehensive characterization of the mouse transcriptome.']	['The comprehensive characterization of the mouse transcriptome']			
+	56a8d660a17756b72f000006	What is the link between Nonidet-40 (NP-40) and biotinylation?		['Reduction of contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins.']	['Reduction of contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins']			
+	530cf54dab4de4de0c00000c	What is the main application of SWATH-MS in proteomics?		['The identification and quantification of any protein.']		1		
+	54f2228e64850a5854000002	Which is the mass-tag that reveal the ubiquitination of a lysine residue?		['Lys-??-Gly-Gly (K-??-GG) is the remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains.']	['K-GG modified peptides']	UNICODE		
+	56e47e0051531f7e3300001c	Where are the orexigenic peptides synthesized?		['The orexigenic peptides are sythesized in the hypothalamus.']	['the hypothalamus']			
+	534eb34b288f4dae47000002	"In which process Src, Cortactin and MT1-MMP are playing an essential role?"		"['Src, Cortactin and MT1-MMP play an essential role in the formation and function of invadopodia.']"	['formation and maturation of invadopodia']			
+	56a8ee75a17756b72f000007	What is the link between Dax1 and Esrrb?		['Dax1 associates with Esrrb and regulates its function in embryonic stem cells.']		1		
+	54d662113706e8952800000d	What is the content of the METLIN database?		['METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite.']	"['tandem mass spectrometry data for each metabolite', 'tandem mass spectrometry data']"			
+	53261e79600967d132000003	What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?		['There is an inverse correlation between inflammatory markers and FT3 circulating levels']	['inverse correlation']			
+	5708992ccf1c32585100000d	What is the RESID database?		"['The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications']"	"['a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications', 'a comprehensive collection of annotations and structures for protein post-translational modifications including N-terminal, C-terminal and peptide chain cross-link modifications']"			
+	550ea8f1b305b40c5c000005	Pridopidine has been tested for treatment of which disorder?		['Huntington disease']	"['Huntington disease', ""Huntington's disease""]"			
+	5709f027cf1c32585100001f	What is the Pfam database?		['The Pfam database is a collection of curated protein families.']	['a collection of curated protein families']			
+	5178d6be8ed59a060a000038	What is a popular mesaure of gene expression in RNA-seq experiments?	What is a popular measure of gene expression in RNA-seq experiments?	['Reads Per Kilobase per Million mapped reads (RPKM)']				
+	52ece29f98d023950500002c	Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?		"['monocarboxylate transporter 8', 'TH monocarboxylate transporter 8 (MCT8) mutation is implicated in the TH resistance syndrome', 'MCT8']"	"['monocarboxylate transporter 8', 'MCT8']"			
+	56b7210b76d8bf8d13000004	What is the effect of thapsigargin treatment?		['Thapsigargin is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor.']	"['sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor','a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor']"			
+	53175e9fb166e2b80600000a	What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?		['LKB1 plays a physiological role in controlling the Wnt-signaling.']	['controlling the Wnt-signaling']			
+	53265dd4d6d3ac6a34000007	What is the prognostic role of alterred thyroid profile after cardiosurgery?	What is the prognostic role of altered thyroid profile after cardiosurgery?	['Altered thyroid profile after cardiosurgery is associated with several events in adults and in children']		1		
+	56caea805795f9a73e00002c	Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity?		['Amino Acid-DepeLysosomal Membrane Protein SLC38A9']	"['Amino Acid-DepeLysosomal Membrane Protein SLC38A9', 'SLC38A9']"			
+	56fcf1b8cf1c325851000005	Which type of genes are modulated by SATB1?		['it supresses cell cytokines and differentiation genes']	['cell cytokines and differentiation genes']			
+	54f5bc7d5f206a0c06000001	What is the function of caspases?		"['Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation.']"	"['propagate programmed cell death', 'proliferation', 'inflammation',  'propagate programmed cell death, proliferation, and inflammation']"			
+	56d1e23c67f0cb3d66000009	Which are the coactivators of the Yes-associated protein (yap)?		['Tead (TEA domain) transcription factors.']	['Tead (TEA domain) transcription factors']			
+	56c58f1b5795f9a73e000001	Which species of bacteria did the mitochondria originate from?		['Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium.']	"['alpha-proteobacterium', 'an alpha-proteobacterium']"			
+	532f1452d6d3ac6a34000030	What is the ubiquitin proteome?		['The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites.']	['the entire set ubiquitinated proteins and of their respective ubiquitination sites']			
+	53147b52e3eabad021000015	What is a benefit of being g6PD-deficient?		['There is evidence of increased resistance to malaria.']	['increased resistance to malaria']			
+	54f60ea05f206a0c06000009	Is there any genetic determinant of hair pigmentation that could be useful in forensic analyses?		"['Yes, there are at least 12 genes associated with human hair color variation such as: TYR, TYRP1, OCA2, SLC45A2, SLC24A5, MC1R, ASIP and KITLG.']"		1		
+	53161545b166e2b806000002	Which DNA repair system is involved in HNPCC?		"['In HNPCC, the mismatch DNA repair system is involved.']"	['the mismatch DNA repair system']			
+	5339edd6d6d3ac6a34000061	Which is the clinical meaning of the presence of delayed enhancement in patients with hypertrophic cardiomyopathy?		['In patients with hypertrophic cardiomyopathy delayed enhancement is associated with heart failure symptoms and left ventricular systolic dysfunction and arrhythmic risk']	['heart failure symptoms and left ventricular systolic dysfunction and arrhythmic risk']			
+	56cae3eb5795f9a73e000021	What is the most likely age of diagnosis of Crohn's disease (CD)?		"[""Crohn's disease has a bimodal age distribution of disease onset diagnosis. The peaks (20 and 50 years) may represent different phenotypes or different genetic and/or environmental influences between younger- and older-onset individuals.""]"	['20 and 50 years']			
+	56c5c7915795f9a73e000004	Where does CTCF colocalize with cohesin?		"['In imprinted and repressed, highly compacted loci that are prone to recombination events.']"		1		
+	54f608f85f206a0c06000007	What is the Drosophila melanogaster Groucho protein?		['Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor']	"['transcriptional corepressor', 'Drosophila melanogaster transcriptional corepressor']"			
+	56ffd805cf1c32585100000a	Which is the main difference between Alu and B1 repeats?		['it is the mouse homolog to the left Alu monomer']		1		
+	58a8045860087bc10a000035	What is trichotillomania?		['Trichotillomania is a hair pulling disorder.']	"['a hair pulling disorder', 'hair pulling disorder']"			
+	58a5b1fe60087bc10a000024	What is the role of the UBC9 enzyme in the protein sumoylation pathway?		['SUMO-conjugating enzyme']	"['SUMO-conjugating enzyme', 'SUMO conjugating enzyme']"			
+	58bc363622d300530900001f	Where is Akkermansia muciniphila found?		['Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals.']	['the gastrointestinal tracts of humans and animals']			
+	58bc347422d300530900001e	How many microorganisms are present in human normal gut?		['10 to 100 trillions microorganisms.']	['10 to 100 trillions microorganisms']			
+	5887fe7d3b87a8a738000008	"What is the role of 3,4-diaminobenzoic acid derivatives in the immune system?"		['Inhibition of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties.']	['Inhibition of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties']			
+	58bca08702b8c6095300000a	What is Dravet syndrome?		['A severe epilepsy of chidhood']	"['severe epilepsy syndromes of early childhood', 'a severe form of epilepsy', 'a severe infantile epilepsy syndrome', 'an epilepsy syndrome of infantile onset']"			
+	58ce363b02b8c60953000046	Which is the relation between coffee consumption and stroke risk?		['The coffee paradox in stroke: Increased consumption linked with fewer strokes.']	['Increased consumption linked with fewer strokes']			
+	58cd7af402b8c6095300003e	What is the aim of the TRAP assay?		['Telomerase enzyme activity can be detected in whole cell lysates by a polymerase chain reaction (PCR)-based method referred to as the telomeric repeat amplification protocol (TRAP).']	['detecting telomerase activity']			
+	58cd7fed02b8c6095300003f	What is the function of calcium-sensing receptor (CaSR)?		['The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis.']	['maintaining calcium homeostasis']			
+	58dfe6b56fddd3e83e000004	What is the enzymatic activity of PARL?		['PARL are serine proteases']		1		
+	58af16ea717cd3f655000002	What happens to H2AX upon DNA bouble strand breaks?	What happens to H2AX upon DNA double strand breaks?	['it is rapidly concentrated']	['rapidly concentrated']			
+	5889eb503b87a8a73800000b	Which syndrome is caused by deletion of Pds5b in mice?		['Cornelia de Lange syndrome.']	['Cornelia de Lange syndrome']			
+	58d900428acda3452900000c	What is the inheritance of Barth syndrome?		['X-linked recessive pattern of inheritance']	"['X-linked recessive pattern', 'X-linked recessive disease', 'X-linked pattern of inheritance', 'X-linked disorder']"			
+	588f341594c1512c50000002	What is the applicability of the No Promoter Left Behind method?		['Learning de novo promoter architectures from genome-wide transcription start sites.']		1		
+	58f4b2f070f9fc6f0f000012	What is the indication for Mirabegron?		['OverActive Bladder syndrome']	"['OverActive Bladder syndrome', 'OverActive Bladder', 'OAB']"			
+	58f0b1d670f9fc6f0f000007	What is a miR?		['MiRs are small (~23 nt) noncoding RNAs']	['small (~23 nt) noncoding RNAs']			
+	58e3d9ab3e8b6dc87c000002	"Angelman syndrome is associated with deletion of a part of Chromosome 15 but if the deletion occurs in the paternally inherited chromosome 15, what is the disease?"		['Prader-Willi syndrome']	"['Prader-Willi syndrome', 'PWS']"			
+	58efa1b870f9fc6f0f000003	"What is a ""chemobrain""?"		"['The term ""chemobrain"" is sometimes used to denote deficits in neuropsychological functioning that may occur as a result of cancer treatment.']"	['deficits in neuropsychological functioning that may occur as a result of cancer treatment']			
+	58f0b0c070f9fc6f0f000006	What is the indication for valbenazine?		['Valbenazine granted breakthrough drug status for treating tardive dyskinesia.']		1		
+	5a4df811966455904c00000e	Which RNA polymerase II subunit carries RNA cleavage activity?		['TFIIS']	"['transcription factor IIS', 'TFIIS']"			
+	5a7610af83b0d9ea6600001a	Which Janus kinase does decernotinib target?		['Janus kinase 3 (JAK3)']	"['Janus kinase 3', 'JAK3']"			
+	5a87145861bb38fb24000004	What causes Black Lung?		['Chronic exposure to coal dust']	"['retention of respirable coal dust', 'respirable coal mine dust', 'inhalation of coal', 'Chronic exposure to coal dust']"			
+	5a897a06fcd1d6a10c00000b	What is the normal body temperature in dogs?		['101 to 102.5 degrees Fahrenheit  or 38.3 to 39.2 degrees Celsius']		1		
+	5a9d29571d1251d03b000018	What effect does azeliragon have on RAGE?		['Inhibitory']	['Inhibitor']			
+	5a9700adfcd1d6a10c00002c	Sclerostin regulates what process?		['bone metabolism']	"['bone metabolism', 'bone formation']"			
+	5a9da8df4e03427e73000006	What is emicizumab?		['ACE910 (emicizumab) is a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function.']	['a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function']			
+	5a7347a02dc08e987e00001b	Gallbladder carriage is a well recognised means of spread of which bacteria?		['Salmonella Typhi']	"['Salmonella Typhi', 'S. Typhi']"			
+	5ac138aa95d0062724000001	Which is the enzymatic activity of nardilysin?		['Nardilysin (N-arginine dibasic convertase; Nrdc) is a metalloendopeptidase of the M16 family that promotes ectodomain shedding of the precursor forms of various growth factors and cytokines by enhancing the protease activities of a disintegrin and metalloproteinase (ADAM) proteins.']	['promotes ectodomain shedding of the precursor forms of various growth factors and cytokines']			
+	5a9d99ac4e03427e73000002	What is measured with the Proseek panels?		"['Differnet Proseek multiplex protein biomarker panels exists: CVD, inflammatory, neurology and oncology biomarker.']"		1		
+	5ac37afc0340b9f058000002	What type of sequences do enhancers evolve from?		['exaptation of ancestral DNA']	['ancestral DNA exaptation']			
+	5ad243e30340b9f058000016	What is the function of LOX proteins in the ECM?		['The best-studied role of LOX enzymes is the remodeling of the extracellular matrix (ECM) in animals by cross-linking collagens and elastin.']	['the remodeling of the extracellular matrix (ECM) in animals by cross-linking collagens and elastin']			
+	5aafc37afcf4565872000010	What is the function of HDAC  proteins?		['HDACs regulate chromatin structure and gene expression']	['regulate chromatin structure and gene expression']			
+	5aacd487fcf4565872000007	Which human gene encode for DNA polymerase ???		['DNA polymerase theta (pol ??) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes']		1		
+	5a86e6fafaa1ab7d2e000036	What is the nucleotide composition of the Lamin Associated Domains (LADs)?		['A/T rich sequences']	"['A/T rich sequences', 'high A/T content']"			
+	5ac0a36f19833b0d7b000002	What is an exosome?		['Exosomes are a subset of extracellular vesicles (EVs) that have important roles in intercellular communication. They contain and carry bioactive molecules within their membranes which are delivered to target cells.']		1		
+	5aac543bfcf4565872000004	What biologic process in the body is associated with Mast cells?		['allergy']	"['allergy', 'allergic reactions']"			
+	5c5f56501a4c55d80b00002a	What is the combined effect of Nfat and miR-25?		['Re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium.']	['Re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium']			
+	5c5f094c1a4c55d80b00000c	Where is the protein Bouncer located?		['Bouncer is membrane bound.']	['membrane-bound']			
+	5c5f0fb41a4c55d80b000013	What is a GPI anchor?		['Glycosylphosphatidylinositols (GPIs) are lipid anchors allowing the exposure of proteins at the outer layer of the plasma membrane.']	['lipid anchors allowing the exposure of proteins at the outer layer of the plasma membrane']			
+	5c5f10791a4c55d80b000014	What is the function of PAPOLA/PAP?		"[""PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate.""]"	"[""adds a polyA tail onto the 3'-end of RNAs"", ""adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate""]"			
+	5c5f2c0c1a4c55d80b000021	What is gingipain?		['A keystone periodontal pathogen. ']	['A keystone periodontal pathogen']			
+	5c5f0d071a4c55d80b000010	What is cluster of differentiation?		"['Cluster of Differentiation (CD) are cellular antigens used to identify cell populations, such as T-lymphocyte populations and macrophages.']"	['cellular antigens used to identify cell populations']			
+	5c78080e7c78d694710000ae	What is the cause of Sandhoff disease?		['Sandhoff disease (SD) is caused by a mutation of the ??-subunit gene ??-hexosaminidase B (HexB) in humans']	['a mutation of the ??-subunit gene ??-hexosaminidase B (HexB) in humans']	UNICODE		
+	5c7839edd774d04240000003	When is serum AFP used as marker?		"['in HCC', 'Hepato cellular carcinoma']"	"['HCC', 'Hepato cellular carcinoma']"			
+	5c7813f57c78d694710000b0	How does the Cholera toxin enter a cell?		"['Cholera toxin (CT) can enter host cells by binding to GM1, a monosialoganglioside widely distributed on the plasma membrane surface of various animal epithelial cells.']"	['by binding to GM1']			
+	5c7d5fcfd774d04240000011	Where are pannexins localized?		['In membranes']	"['membranes', 'in membranes']"			
+	5c9a6693ecadf2e73f000031	What is a mitosome?		['Simple and anaerobic mitochondria.']	['Simple and anaerobic mitochondria']			
+	5c897082d558e5f232000004	What is the price of KYMRIAH treatment in 2019?		"['475,000 USD']"	"['475,000 USD', '$475,000']"			
+	5e6e82eac6a8763d23000001	What is the SLC25A20 protein transporting?		['The carnitine/acylcarnitine transporter (CACT; SLC25A20) mediates an antiport reaction allowing entry of acyl moieties in the form of acylcarnitines into the mitochondrial matrix and exit of free carnitine.']		1		
+	5e80489b835f4e4777000022	What is the function of the protein encoded by the gene NKCC2?		['This protein functions as an Na-K-Cl cotransporter.']	['Na-K-Cl cotransporter']			
+	5e5b6f04b761aafe0900000e	How large is the SARS-CoV  proteome?		"['The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products.']"		1		
+	5e5b8b4e752ebcdc7a000001	Which is the phenotype of the disease fibrodysplasia ossificans progressiva?		"['3.\tFibrodysplasia ossificans progressiva (FOP), a congenital heterotopic ossification (HO) syndrome caused by gain-of-function mutations of bone morphogenetic protein (BMP) type I receptor ACVR1, manifests with progressive ossification of skeletal muscles, tendons, ligaments, and joints.']"		1		
+	5e361c8792b3349b55000001	What is dystopia canthorum?		['a prominent broad nasal root with increased intercanthal distance.']	['lateral displacement of the inner canthi']			
+	5e5b626fb761aafe0900000c	What molecules are the multidrug transporter MDR3 targeting?		['Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator']	['phospholipid translocator']			
+	5e480da0d14c9f295d000006	What is the cyberknife used for?		['CyberKnife?? is a robotic stereotactic radiotherapy system']	['a robotic stereotactic radiotherapy system']			
+	5e48f2b6f8b2df0d49000005	What is the radiation-induced CD8 lymphocyte apoptosis (RILA) assay used for?		['Radiation-induced lymphocyte apoptosis (RILA) has been suggested as a predictive assay for adverse late reactions after radiotherapy.']	['a predictive assay for adverse late reactions after radiotherapy']			
+	5e46da9c3f5415952900000a	What is detected by the UV-damaged DNA-binding protein (UV-DDB) complex?		['UV-DDB associates tightly with chromatin and is involved in global genomic nucleotide excision repair (NER)']		1		
+	5e48efd9f8b2df0d49000004	"What is the aim of the ""Radiogenomics Consortium""?"		['Pre-identification of people who are at greatest risk for adverse effects resulting from cancer treatment using radiation.']		1		
+	5e499c636d0a27794100000a	What is molecular radiotherapy?		['Molecular radiotherapy is working through tumor-targeted radionuclides.']		1		
+	5e5cc1fa1af46fc130000005	What is iodine thyroid blocking?		['High doses of potassium iodide are effective to block radioiodine thyroid uptake and to prevent development of thyroid cancer years later.']	['development of thyroid cancer years later']			
+	5d35be1cb3a6380763000005	What is the function of WAPL protein on cohesin?		['Wapl is a cohesin unloading factor']	"[""cohesin's timely release""]"			
+	5e5d24811af46fc130000006	What is romiplostim targeting?		['Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist']	['thrombopoietin (TPO)-receptor-agonist']			
+	532366f09b2d7acc7e000015	Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?	Which amino acid residue appears mutated in most of the cases reported with cadasil syndrome?	['Cysteine']				
+	52f350042059c6d71c000010	What is the incidence of Edwards syndrom in the european population?	What is the incidence of Edwards syndrome in the european population?	['1:5000']				
+	53189656b166e2b80600001c	Against which protein is the antibody used for immonostaining of Lewy bodies raised?	Against which protein is the antibody used for immunostaining of Lewy bodies raised?	['alpha-Synuclein']				
+	5540fbce234c5a7c75000001	Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?	Which autophagy pathway is triggered by the KFERQ motif of cytosolic proteins?	['chaperone-mediated autophagy (CMA)']				
+	5544de7a5beec11c10000005	In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?	In which phase of cell cycle does stress-induced transcription-associated mutagenesis (TAM) occur?	['stationary phase']				
+	54e8c7220fc566b149000002	Where in the cell does the proteins S100A4 and p53 interact ?	Where in the cell does the proteins S100A4 and p53 interact?	['nucleus']				
+	55242d512c8b63434a000006	Which receptors can be evaluated with the [18F]altanserin?	Which receptors can be evaluated with the [18F] altanserin?	['5-HT2A']				
+	58c99fcc02b8c60953000029	What does the human ABCC gene  product do?	What does the human ABCC gene product do?	['ATP dependent small molecule transporter']				
+	58da1aa08acda34529000012	Which protein is associated with hyperemesis gravidarum during pregrancy?	Which protein is associated with hyperemesis gravidarum during pregnancy?	"['Human chorionic gonadotropin', 'hCG']"				
+	58f3c4b970f9fc6f0f00000a	"What type of genome, (RNA or DNA, double stranded single stranded) is found in the the virus that causes blue tongue disease?"	"What type of genome, (RNA or DNA, double stranded single stranded) is found in the virus that causes blue tongue disease?"	"['double stranded, segmented RNA']"				
+	5a6a02a3b750ff4455000021	What protein is the most common cause of hereditary  renal amyloidosis?	What protein is the most common cause of hereditary renal amyloidosis?	['Fibrinogen A Alpha protein']				
+	5a70e4b399e2c3af26000008	Glecaprevir and Pibrentasvir are used for tratment of which disease?	Glecaprevir and Pibrentasvir are used for treatment of which disease?	['Hepatitis C virus infection']				
+	5a735cdc3b9d13c708000004	"In November 2017,  in what phase  was  the clinical trial for the drug SYL040012?"	"In November 2017, in what phase was the clinical trial for the drug SYL040012?"	['Phase 3']				
+	5ad83cd6133db5eb78000010	Which species is the carrier of the SFTS ( severe fever with thrombocytopenia syndrome) virus?	Which species is the carrier of the SFTS (severe fever with thrombocytopenia syndrome) virus?	['Haemaphysalis longicornis']				
+	5c5219f67e3cb0e231000006	"As of September 2018, what machine learning algorithm is used to for cardiac arrhythmia detection from a  short single-lead ECG recorded by a wearable device?"	"As of September 2018, what machine learning algorithm is used to for cardiac arrhythmia detection from a short single-lead ECG recorded by a wearable device?"	['SVM OR Support Vector Machine']				
+	5c5249077e3cb0e23100000b	What is the 3D tomography imaging technique for diagnosis of  eye disease?	What is the 3D tomography imaging technique for diagnosis of eye disease?	['optical coherence tomography.']				
+	5c6b810e7c78d6947100002e	Cerliponase alfa is apprived for treatment of which disease?	Cerliponase alfa is approved for treatment of which disease?	['neuronal ceroid lipofuscinosis type 2']				
+	5c72b7277c78d69471000073	What the chromsomal location of the gene that is deleted in Potocki-Shaffer syndrome?	What the chromosomal location of the gene that is deleted in Potocki-Shaffer syndrome?	['11p11.2p12']				
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								

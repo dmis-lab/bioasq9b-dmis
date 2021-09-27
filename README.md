@@ -18,11 +18,10 @@ Link | Detail
 
 ### Datasets
 We provide pre-processed version of BioASQ 8b - Phase B datasets for each task as follows:
-*   **[`BioASQ 8b`](https://drive.google.com/open?id=1-KzAQzaE-Zd4jOlZG_7k7D4odqPI3dL1)** (23 MB) Last update : 15th Oct. 2019 
+*   **[`BioASQ 8b`](https://drive.google.com/file/d/1THaDKpoiVRWvJjH9d0LZYakzVoBHKMI1/view?usp=sharing)** (23 MB) 
 
-Due to the copyright issue, we can not provide golden answers for BioASQ 6b test dataset at the moment. 
-**However, you can extract golden answers for 6b from original BioASQ 7b dataset.**
-To use original BioASQ datasets, you should register in [BioASQ website](http://participants-area.bioasq.org). 
+Due to the copyright issue, we can not provide golden answers for BioASQ test dataset. 
+To use BioASQ datasets, you should register in [BioASQ website](http://participants-area.bioasq.org). 
 
 For details on the datasets, please see **An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition (Tsatsaronis et al. 2015)**.
 
